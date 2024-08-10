@@ -5,5 +5,5 @@
 
 .abdo {
     padding: 20px;
-    background-color: green;
+    background-image: linear-gradient(to left, lightblue , blue);
 }
